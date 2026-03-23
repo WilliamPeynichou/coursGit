@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Header & Footer */
+header, footer {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
+
+/* Titre principal */
+h1 {
+    margin: 20px 0;
+}
+
+/* Section articles */
+section {
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+/* Articles */
+article {
+    background: #eee;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Formulaire */
+input {
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
