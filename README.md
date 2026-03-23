@@ -16,4 +16,6 @@ Mise à jour CSS
 
 Travail effectué sur la branche css
 
-Merci de vérifier.
+Merci de vérifier. 
+
+je viens de faire un test de conflit sur le index.html 
